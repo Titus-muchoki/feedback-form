@@ -1,0 +1,65 @@
+body{
+    background-color: greenyellow;
+}
+.one{
+    font-family: Tahoma;
+
+}
+#four{
+    text-align: center;
+}
+#year{
+    margin-left: -30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    /* margin-top: 100px; */
+}
+#freshman{
+    margin-left: 150px;
+}
+#sophomore{
+    margin-left: 150px; 
+}
+#junior{
+    margin-left: 150px; 
+}
+#senior{
+    margin-left: 150px; 
+}
+#activity{
+    margin-left: -30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    /* margin-top: 100px; */
+}
+#sport{
+    margin-left: 150px;
+}
+#music{
+    margin-left: 150px; 
+}
+#theater{
+    margin-left: 150px; 
+}
+#others{
+    margin-left: 150px; 
+}
+#comment{
+    margin-left: -30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    /* margin-top: 100px; */
+}
+#feedback{
+    margin-left: 150px; 
+}
+#submit{
+    margin-left: 180px; 
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+    
