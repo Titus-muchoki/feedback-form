@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: greenyellow;
 }
 .one{
@@ -13,7 +13,7 @@ body{
     margin-bottom: 20px;
     margin-top: 10px;
     padding: 10px;
-    /* margin-top: 100px; */
+    
 }
 #freshman{
     margin-left: 150px;
@@ -32,7 +32,7 @@ body{
     margin-bottom: 20px;
     margin-top: 10px;
     padding: 10px;
-    /* margin-top: 100px; */
+   
 }
 #sport{
     margin-left: 150px;
@@ -51,7 +51,7 @@ body{
     margin-bottom: 20px;
     margin-top: 10px;
     padding: 10px;
-    /* margin-top: 100px; */
+    
 }
 #feedback{
     margin-left: 150px; 
@@ -62,4 +62,30 @@ body{
     margin-top: 10px;
     padding: 10px;
 }
-    
+     */
+     body{
+        background-color: greenyellow;
+     }
+     #year{
+        margin-left: -30px;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        padding: 10px;
+        
+    }
+     .forms{
+        background-color: antiquewhite;
+        margin-left: 90px;
+        margin-top: -50px;
+        
+     }
+     .labels{
+        margin-left: -20px;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        padding: 0px;
+     }
+     #fall{
+        margin-left: -400px;
+        margin-left: -120px;
+     }
